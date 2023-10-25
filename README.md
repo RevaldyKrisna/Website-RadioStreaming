@@ -4,7 +4,7 @@ Tugas Jaringan Multimedia Tentang Aplikasi Radio Streaming
 Kode sumber from ChatGPT
 # Cara Penggunaan
 1. Pastikan Perangkat terhubung internet.
-2. Download File yang sudah tertera
+2. Download File yang sudah tertera di github
 3. Buka di code editor
 4. Jalankan file HTML
 # New Feature
